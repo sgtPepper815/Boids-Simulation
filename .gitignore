@@ -421,7 +421,6 @@ FodyWeavers.xsd
 # Build
 build/
 *.o
-*.exe
 .vs/
 CMakeFiles/
 CMakeCache.txt
@@ -429,6 +428,3 @@ CMakeCache.txt
 *.vcxproj.filters
 
 # SFML / Windows DLLs
-*.dll
-*.lib
-*.pdb
